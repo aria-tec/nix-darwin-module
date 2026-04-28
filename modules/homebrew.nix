@@ -79,6 +79,7 @@
       "supabase/tap"
       "jesseduffield/lazydocker"
       "d12frosted/emacs-plus"
+      "homebrew/cask-fonts"
     ];
     vscode = [
       "bbenoist.nix"
