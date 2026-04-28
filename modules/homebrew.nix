@@ -37,7 +37,11 @@
       "dotnet-sdk"
       "mactex"
       "utm"
-      "neovide"
+      "neovide-app"
+      "font-iosevka"           # Font utama untuk Coding
+      "font-iosevka-aile"      # Font proporsional untuk Org-mode
+      "font-et-book"           # Tetap sertakan ini untuk Serif yang indah
+      "font-symbols-nerd-font" # Penting untuk ikon Doom Emacs
 
 
       # -- collage --
@@ -79,7 +83,6 @@
       "supabase/tap"
       "jesseduffield/lazydocker"
       "d12frosted/emacs-plus"
-      "homebrew/cask-fonts"
     ];
     vscode = [
       "bbenoist.nix"
