@@ -21,7 +21,6 @@
     "/System/Applications/Passwords.app/"
     "/Applications/Figma.app/"
     "/Applications/Ghostty.app/"
-    "/Applications/Emacs.app"
     # "An application to be added to the dock."
   ];
   system.defaults.dock.orientation = "left";
